@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e45419e-0e15-4d06-8fcc-6aa014200590" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVATEST03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example01/Example01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example02/Example02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example03/Example03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example04/Example04.java" afterDir="false" />
+    <list default="true" id="1e45419e-0e15-4d06-8fcc-6aa014200590" name="变更" comment="Complete Example09.">
+      <change afterPath="$PROJECT_DIR$/src/Example05/Example05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Example06/Example06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Example07/Example07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Example08/Example08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Example09/Example09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Example10/Example10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +51,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664453112109</updated>
-      <workItem from="1664453114113" duration="1767000" />
+      <workItem from="1664453114113" duration="2655000" />
     </task>
+    <task id="LOCAL-00001" summary="Complete Example04.">
+      <created>1664454933875</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664454933875</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,5 +76,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Complete Example04." />
+    <MESSAGE value="Complete Example09." />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete Example09." />
   </component>
 </project>
